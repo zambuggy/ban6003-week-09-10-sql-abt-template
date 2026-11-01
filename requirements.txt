@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+nbconvert
+ipykernel
+python-dotenv
+sqlalchemy
+psycopg2-binary
+psycopg[binary]
+setuptools<81
+nycflights13
+duckdb
